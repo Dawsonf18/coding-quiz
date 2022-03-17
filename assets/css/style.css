@@ -22,8 +22,9 @@
     text-align: center;
 }
 
-.question button {
+.question {
     display: flex;
+    flex-wrap: nowrap;
     flex-direction: column;
 }
 
