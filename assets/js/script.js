@@ -48,10 +48,12 @@ function showQuestion (question) {
     questionDiv.style.display = "flex";
     var ans = [answer1, answer2, answer3, answer4];
     for(var i = 0; i < 4; i++){
+        var temp = ans[i];
+        ans[i].removeEventListener("click", )
         ans[i].addEventListener("click", function(){
-            console.log(ans[i]);
-            userChoiceAction(ans[i]);
-        })
+            console.log(i);
+            userChoiceAction(temp);
+        });
     }
 
 }
