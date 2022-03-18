@@ -12,20 +12,23 @@
     justify-content: center;
     text-align: center;
 }
-.newQuest0 {
-    display: block;
+
+
+#question {
+    display: none;
     align-items: center;
     margin-top: 10%;
     flex-wrap: wrap;
     font-size: xx-large;
     justify-content: center;
     text-align: center;
-}
-
-.question {
-    display: flex;
-    flex-wrap: nowrap;
     flex-direction: column;
 }
 
+#question button {
+    width: 300px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
 
