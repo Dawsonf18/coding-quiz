@@ -32,3 +32,16 @@
     align-items: center;
 }
 
+.score-page {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: x-large;
+}
+
+input {
+    width: 200px;
+    height: 20px;
+}
