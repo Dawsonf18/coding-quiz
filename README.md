@@ -9,7 +9,7 @@ A quiz that tests your knowledge of javascript while also practicing javascript 
 * JavaScript
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://dawsonf18.github.io/coding-quiz/
 
 ## Contribution
 Made with ❤️ by [Dawson Filion]
